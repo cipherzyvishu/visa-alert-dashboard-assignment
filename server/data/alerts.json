@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5dc4837e-d143-4965-ae9d-499bbfeefbf4",
+    "country": "India",
+    "city": "Mumbai",
+    "visaType": "Tourist",
+    "status": "Booked",
+    "createdAt": "2026-01-30T10:03:38.114Z"
+  },
+  {
+    "id": "7faa311b-a874-4721-8224-c6819eb30372",
+    "country": "Germany",
+    "city": "Hamburg",
+    "visaType": "Tourist",
+    "status": "Booked",
+    "createdAt": "2026-01-30T10:18:36.841Z"
+  },
+  {
+    "id": "4dbed696-847a-494f-83aa-9da6c2324a44",
+    "country": "India",
+    "city": "Kolkata",
+    "visaType": "Tourist",
+    "status": "Active",
+    "createdAt": "2026-01-30T11:31:51.709Z"
+  },
+  {
+    "id": "2531a520-d5a2-448b-8552-4f256922d073",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "visaType": "Student",
+    "status": "Active",
+    "createdAt": "2026-01-30T11:41:58.334Z"
+  }
+]
