@@ -149,15 +149,15 @@ Example:
 
 ### Dashboard View
 
-```md
+
 ![Dashboard](./screenshots/dashboard.png)
-```
+
 
 ### Alerts Table
 
-```md
+
 ![Alerts Table](./screenshots/alerts.png)
-```
+
 
 ---
 
